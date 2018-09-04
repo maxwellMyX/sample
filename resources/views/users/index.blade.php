@@ -10,6 +10,6 @@
         @endforeach
     </ul>
 
-    {{!! $users->render() !!}}
+    {!! $users->render() !!}
 </div>
 @stop
